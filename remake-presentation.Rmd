@@ -1,0 +1,8 @@
+---
+title: "remake presentation"
+author: "François"
+date: "03/13/2015"
+output: html_document
+---
+
+Presentation for the `remake` package.
